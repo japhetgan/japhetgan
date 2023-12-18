@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I'm Japhet! 👋
 
-<!--
-**japhetgan/japhetgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of the GitHub universe. I'm a cheerful PERN stack developer with a love for crafting awesome web experiences. Currently, I'm on an adventure with Kent C Dodds' Epic React.dev workshop, exploring the vast world of React.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend Sorcery:** React, React Router
+- **Backend Alchemy:** Node.js, Express, Knex.js
+- **Authentication Charms:** Firebase Authentication
+- **Other Mystical Tools:** Git, VSCode, and a dash of creativity.
+
+## 🌱 Currently Learning
+
+- Navigating the twists and turns of React Router for seamless user journeys
+- Mastering the art of database sorcery with Knex.js
+- Harnessing the enchanting power of Firebase for secure and seamless authentication
